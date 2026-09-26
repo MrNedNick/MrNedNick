@@ -1,43 +1,62 @@
 # Nikita — Frontend Developer
 
-Vue 3 · React · TypeScript · 6+ years building scalable, high-performance web apps. Based in Europe.
+Vue 3 · React · TypeScript · 6+ years building fast, readable web apps. Based in Europe.
 
-I like products that stay fast and readable as they grow: strict TypeScript, a real design system, tests that actually run in CI, and no CSS framework doing the thinking for me.
-
----
-
-## 🌟 VibeOS — a personal life OS
-
-**[Live demo](https://mrnednick.github.io/VibeOS)** · **[Source](https://github.com/MrNedNick/VibeOS)**
-
-A single app for habits, tasks, goals, learning, training, notes and finance — where **everything is connected**. Check off a habit and its linked goal advances on its own. Log a workout and the habit checks itself off. One action cascades across modules, with nothing to wire up by hand.
-
-![Vue](https://img.shields.io/badge/Vue_3-35495e?style=flat-square&logo=vue.js&logoColor=4FC08D) ![TypeScript](https://img.shields.io/badge/TypeScript-strict-3178c6?style=flat-square&logo=typescript&logoColor=white) ![Vite](https://img.shields.io/badge/Vite_6-646CFF?style=flat-square&logo=vite&logoColor=white) ![Pinia](https://img.shields.io/badge/Pinia-ffd859?style=flat-square&logo=vue.js&logoColor=black) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-
-| | |
-|---|---|
-| **Scale** | 16 modules · 146 Vue components · ~52k lines of TS/Vue |
-| **Tested** | 665 unit tests in 63 files (Vitest) + Playwright E2E, coverage gate in CI |
-| **Fast** | 114 kB initial JS gzip, every module route lazy-loaded |
-| **Accessible** | Lighthouse accessibility 100/100 |
-| **Backend** | Supabase auth + row-level security, JSONB sync, offline queue, real-time merge |
-| **Design system** | 22 in-house `@/ui` components, zero CSS frameworks, tokens-only styling |
-
-**Engineering details I'm happy to talk about:**
-
-- **Offline-first sync.** Versioned `localStorage` is the source of truth; a debounced push and an offline queue reconcile with Supabase. Soft-delete tombstones and `updatedAt` stamps make merges converge instead of resurrecting deleted rows.
-- **Cross-module cascade.** A typed event bus lets a workout advance a habit, which advances a goal — without any module importing another. Regression-tested end to end.
-- **Theming without JS.** Four "vibe-paks" (Dark, Light, Brutalist, CRT Retro) plus system-follow, implemented as pure CSS variable overrides on a `[data-theme]` attribute.
-- **A CI guard against hardcoded hex colors,** because a design system only survives if something enforces it.
+I like products that stay quick and clear as they grow: strict TypeScript, a real design system, and tests that run in CI.
 
 ---
 
-## Other work
+## Featured
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+<a href="https://mrnednick.github.io/bmw-atlas/"><img src="https://raw.githubusercontent.com/MrNedNick/bmw-atlas/main/public/images/editorial-bmw-x5-g65.webp" alt="BMW Atlas" width="100%"></a>
+
+### [BMW Atlas](https://mrnednick.github.io/bmw-atlas/)
+
+An independent BMW encyclopedia: generations, model-year updates, powertrains and production, with a photo for every generation. Source-backed.
+
+<sub>React 19 · TypeScript · Tailwind · [code](https://github.com/MrNedNick/bmw-atlas)</sub>
+
+</td>
+<td width="33%" valign="top">
+
+<a href="https://mrnednick.github.io/photo-lab/"><img src="https://raw.githubusercontent.com/MrNedNick/photo-lab/main/docs/editor.png" alt="Photo Lab" width="100%"></a>
+
+### [Photo Lab](https://mrnednick.github.io/photo-lab/)
+
+A free photo editor that runs entirely in your browser: crop, color, looks and export. No sign-up, and your photos never leave the device.
+
+<sub>TypeScript · WebGL2 · Web Workers · [code](https://github.com/MrNedNick/photo-lab)</sub>
+
+</td>
+<td width="33%" valign="top">
+
+<a href="https://mrnednick.github.io/daily-brief/"><img src="https://raw.githubusercontent.com/MrNedNick/daily-brief/main/docs/screenshot.png" alt="Daily Brief" width="100%"></a>
+
+### [Daily Brief](https://mrnednick.github.io/daily-brief/)
+
+A calm Hacker News reader: three feeds, threaded discussions, full-text search, and saved stories that open offline.
+
+<sub>Svelte 5 · SvelteKit · [code](https://github.com/MrNedNick/daily-brief)</sub>
+
+</td>
+</tr>
+</table>
+
+## More projects
 
 | Project | What it is | Stack |
 |---|---|---|
-| **[oxfeeds-landing](https://github.com/MrNedNick/oxfeeds-landing)** | Marketing site for a search-traffic monetization partner — glassmorphism, scroll-reveal, 3D card tilt, count-up stats | Vue 3 · Vue Router · Vite |
-| **[mobilynx-landing](https://github.com/MrNedNick/mobilynx-landing)** | Marketing site for a mobile performance-traffic network across 20+ GEOs | Vue 3 · Vue Router · Vite |
+| **[Frontend Notes](https://mrnednick.github.io/frontend-notes/)** · [code](https://github.com/MrNedNick/frontend-notes) | Notes from real bugs and a measured comparison of five stacks — zero JavaScript per page | Astro |
+| **[Metrics Board](https://mrnednick.github.io/metrics-board/)** · [code](https://github.com/MrNedNick/metrics-board) | Where signups and revenue come from — filters you can share as a link, charts linked to the table | React 19 · TanStack |
+| **[OXFeeds](https://mrnednick.github.io/oxfeeds-landing/)** · [code](https://github.com/MrNedNick/oxfeeds-landing) | Landing for a search-traffic monetization service | Vue 3 |
+| **[Mobilynx](https://mrnednick.github.io/mobilynx-landing/)** · [code](https://github.com/MrNedNick/mobilynx-landing) | Landing for a mobile performance-traffic network | Vue 3 |
+| **[Transit Map](https://mrnednick.github.io/transit-map/)** · [code](https://github.com/MrNedNick/transit-map) | How far can you get in 20 minutes? Every stop in a city and the area you can reach | Svelte 5 · MapLibre |
+| **[Booking Desk](https://mrnednick.github.io/booking-desk/)** · [code](https://github.com/MrNedNick/booking-desk) | Meeting-room booking with a week grid and conflict checks | Angular 20 |
+| **[VibeOS](https://mrnednick.github.io/VibeOS/)** · [code](https://github.com/MrNedNick/VibeOS) | A personal life OS — habits, goals and tasks linked into one system | Vue 3 · Supabase |
 
 ---
 
@@ -46,15 +65,16 @@ A single app for habits, tasks, goals, learning, training, notes and finance —
 ![Vue](https://img.shields.io/badge/Vue.js-35495e?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
 ![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black)
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
 ![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Pinia](https://img.shields.io/badge/Pinia-ffd859?style=flat-square&logo=vuedotjs&logoColor=black)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![WebGL](https://img.shields.io/badge/WebGL2-990000?style=flat-square&logo=webgl&logoColor=white)
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
