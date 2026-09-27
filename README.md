@@ -27,7 +27,7 @@ An independent BMW encyclopedia: generations, model-year updates, powertrains an
 
 ### [Photo Lab](https://mrnednick.github.io/photo-lab/)
 
-A free photo editor that runs entirely in your browser: crop, color, looks and export. No sign-up, and your photos never leave the device.
+A free photo editor in the browser: crop for any feed, straighten, fix colors, remove the background, blur faces and plates. No sign-up; photos never leave the device.
 
 <sub>TypeScript · WebGL2 · Web Workers · [code](https://github.com/MrNedNick/photo-lab)</sub>
 
@@ -38,7 +38,7 @@ A free photo editor that runs entirely in your browser: crop, color, looks and e
 
 ### [Daily Brief](https://mrnednick.github.io/daily-brief/)
 
-A calm Hacker News reader: three feeds, threaded discussions, full-text search, and saved stories that open offline.
+Today's edition of Hacker News: the biggest stories of the last 24 hours and a story from this day in HN history. Works offline.
 
 <sub>Svelte 5 · SvelteKit · [code](https://github.com/MrNedNick/daily-brief)</sub>
 
