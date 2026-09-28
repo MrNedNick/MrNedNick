@@ -4,6 +4,8 @@ Vue 3 · React · TypeScript · 6+ years building fast, readable web apps. Based
 
 I like products that stay quick and clear as they grow: strict TypeScript, a real design system, and tests that run in CI.
 
+🔗 [mrnednick.github.io/bmw-atlas](https://mrnednick.github.io/bmw-atlas/)
+
 ---
 
 ## Featured
