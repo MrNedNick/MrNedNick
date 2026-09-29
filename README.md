@@ -14,7 +14,7 @@ I like products that stay quick and clear as they grow: strict TypeScript, a rea
 <tr>
 <td width="33%" valign="top">
 
-<a href="https://mrnednick.github.io/bmw-atlas/"><img src="https://raw.githubusercontent.com/MrNedNick/bmw-atlas/main/public/images/editorial-bmw-x5-g65.webp" alt="BMW Atlas" width="100%"></a>
+<a href="https://mrnednick.github.io/bmw-atlas/"><img src="assets/bmw-atlas.webp" alt="BMW Atlas" width="100%"></a>
 
 ### [BMW Atlas](https://mrnednick.github.io/bmw-atlas/)
 
@@ -25,7 +25,7 @@ An independent BMW encyclopedia: generations, model-year updates, powertrains an
 </td>
 <td width="33%" valign="top">
 
-<a href="https://mrnednick.github.io/photo-lab/"><img src="https://raw.githubusercontent.com/MrNedNick/photo-lab/main/docs/editor.png" alt="Photo Lab" width="100%"></a>
+<a href="https://mrnednick.github.io/photo-lab/"><img src="assets/photo-lab.webp" alt="Photo Lab" width="100%"></a>
 
 ### [Photo Lab](https://mrnednick.github.io/photo-lab/)
 
@@ -36,7 +36,7 @@ A free photo editor in the browser: crop for any feed, straighten, fix colors, r
 </td>
 <td width="33%" valign="top">
 
-<a href="https://mrnednick.github.io/daily-brief/"><img src="https://raw.githubusercontent.com/MrNedNick/daily-brief/main/docs/screenshot.png" alt="Daily Brief" width="100%"></a>
+<a href="https://mrnednick.github.io/daily-brief/"><img src="assets/daily-brief.webp" alt="Daily Brief" width="100%"></a>
 
 ### [Daily Brief](https://mrnednick.github.io/daily-brief/)
 
@@ -50,15 +50,80 @@ Today's edition of Hacker News: the biggest stories of the last 24 hours and a s
 
 ## More projects
 
-| Project | What it is | Stack |
-|---|---|---|
-| **[Frontend Notes](https://mrnednick.github.io/frontend-notes/)** · [code](https://github.com/MrNedNick/frontend-notes) | Notes from real bugs and a measured comparison of five stacks — zero JavaScript per page | Astro |
-| **[Metrics Board](https://mrnednick.github.io/metrics-board/)** · [code](https://github.com/MrNedNick/metrics-board) | Where signups and revenue come from — filters you can share as a link, charts linked to the table | React 19 · TanStack |
-| **[OXFeeds](https://mrnednick.github.io/oxfeeds-landing/)** · [code](https://github.com/MrNedNick/oxfeeds-landing) | Landing for a search-traffic monetization service | Vue 3 |
-| **[Mobilynx](https://mrnednick.github.io/mobilynx-landing/)** · [code](https://github.com/MrNedNick/mobilynx-landing) | Landing for a mobile performance-traffic network | Vue 3 |
-| **[Transit Map](https://mrnednick.github.io/transit-map/)** · [code](https://github.com/MrNedNick/transit-map) | How far can you get in 20 minutes? Every stop in a city and the area you can reach | Svelte 5 · MapLibre |
-| **[Booking Desk](https://mrnednick.github.io/booking-desk/)** · [code](https://github.com/MrNedNick/booking-desk) | Meeting-room booking with a week grid and conflict checks | Angular 20 |
-| **[VibeOS](https://mrnednick.github.io/VibeOS/)** · [code](https://github.com/MrNedNick/VibeOS) | A personal life OS — habits, goals and tasks linked into one system | Vue 3 · Supabase |
+<table>
+<tr>
+<td width="33%" valign="top">
+
+<a href="https://mrnednick.github.io/frontend-notes/"><img src="assets/frontend-notes.webp" alt="Frontend Notes" width="100%"></a>
+
+#### [Frontend Notes](https://mrnednick.github.io/frontend-notes/)
+
+Notes from real bugs and a measured comparison of five stacks — zero JavaScript per page.
+
+<sub>Astro · [code](https://github.com/MrNedNick/frontend-notes)</sub>
+
+</td>
+<td width="33%" valign="top">
+
+<a href="https://mrnednick.github.io/metrics-board/"><img src="assets/metrics-board.webp" alt="Metrics Board" width="100%"></a>
+
+#### [Metrics Board](https://mrnednick.github.io/metrics-board/)
+
+Where signups and revenue come from — filters you can share as a link, charts linked to the table.
+
+<sub>React 19 · TanStack · [code](https://github.com/MrNedNick/metrics-board)</sub>
+
+</td>
+<td width="33%" valign="top">
+
+<a href="https://mrnednick.github.io/oxfeeds-landing/"><img src="assets/oxfeeds-landing.webp" alt="OXFeeds" width="100%"></a>
+
+#### [OXFeeds](https://mrnednick.github.io/oxfeeds-landing/)
+
+Landing for a search-traffic monetization service.
+
+<sub>Vue 3 · [code](https://github.com/MrNedNick/oxfeeds-landing)</sub>
+
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+
+<a href="https://mrnednick.github.io/mobilynx-landing/"><img src="assets/mobilynx-landing.webp" alt="Mobilynx" width="100%"></a>
+
+#### [Mobilynx](https://mrnednick.github.io/mobilynx-landing/)
+
+Landing for a mobile performance-traffic network.
+
+<sub>Vue 3 · [code](https://github.com/MrNedNick/mobilynx-landing)</sub>
+
+</td>
+<td width="33%" valign="top">
+
+<a href="https://mrnednick.github.io/transit-map/"><img src="assets/transit-map.webp" alt="Transit Map" width="100%"></a>
+
+#### [Transit Map](https://mrnednick.github.io/transit-map/)
+
+How far can you get in 20 minutes? Every stop in a city and the area you can reach.
+
+<sub>Svelte 5 · MapLibre · [code](https://github.com/MrNedNick/transit-map)</sub>
+
+</td>
+<td width="33%" valign="top">
+
+<a href="https://mrnednick.github.io/booking-desk/"><img src="assets/booking-desk.webp" alt="Booking Desk" width="100%"></a>
+
+#### [Booking Desk](https://mrnednick.github.io/booking-desk/)
+
+Meeting-room booking with a week grid and conflict checks.
+
+<sub>Angular 20 · [code](https://github.com/MrNedNick/booking-desk)</sub>
+
+</td>
+</tr>
+</table>
+
+Also: **[VibeOS](https://mrnednick.github.io/VibeOS/)** · [code](https://github.com/MrNedNick/VibeOS) — a personal life OS: habits, goals and tasks linked into one system. <sub>Vue 3 · Supabase</sub>
 
 ---
 
