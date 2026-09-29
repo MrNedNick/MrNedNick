@@ -1,10 +1,8 @@
-# Nikita — Frontend Developer
+# Nikita — Frontend & Product Engineer
 
-Vue 3 · React · TypeScript · 6+ years building fast, readable web apps. Based in Europe.
+6+ years building web products with Vue, React and TypeScript — and, more and more, the parts around the interface: WebGL image processing, real-time sync, offline data, mobile apps and the API behind them. Based in Europe.
 
 I like products that stay quick and clear as they grow: strict TypeScript, a real design system, and tests that run in CI.
-
-🔗 [mrnednick.github.io/bmw-atlas](https://mrnednick.github.io/bmw-atlas/)
 
 ---
 
@@ -31,7 +29,7 @@ An independent BMW encyclopedia: generations, model-year updates, powertrains an
 
 A free photo editor in the browser: crop for any feed, straighten, fix colors, remove the background, blur faces and plates. No sign-up; photos never leave the device.
 
-<sub>TypeScript · WebGL2 · Web Workers · [code](https://github.com/MrNedNick/photo-lab)</sub>
+<sub>TypeScript · WebGL2 · Web Workers · ONNX · [code](https://github.com/MrNedNick/photo-lab)</sub>
 
 </td>
 <td width="33%" valign="top">
@@ -48,105 +46,106 @@ Today's edition of Hacker News: the biggest stories of the last 24 hours and a s
 </tr>
 </table>
 
-## More projects
+## Live sites
 
 <table>
 <tr>
-<td width="33%" valign="top">
-
-<a href="https://mrnednick.github.io/frontend-notes/"><img src="assets/frontend-notes.webp" alt="Frontend Notes" width="100%"></a>
-
-#### [Frontend Notes](https://mrnednick.github.io/frontend-notes/)
-
-Notes from real bugs and a measured comparison of five stacks — zero JavaScript per page.
-
-<sub>Astro · [code](https://github.com/MrNedNick/frontend-notes)</sub>
-
-</td>
-<td width="33%" valign="top">
-
-<a href="https://mrnednick.github.io/metrics-board/"><img src="assets/metrics-board.webp" alt="Metrics Board" width="100%"></a>
-
-#### [Metrics Board](https://mrnednick.github.io/metrics-board/)
-
-Where signups and revenue come from — filters you can share as a link, charts linked to the table.
-
-<sub>React 19 · TanStack · [code](https://github.com/MrNedNick/metrics-board)</sub>
-
-</td>
 <td width="33%" valign="top">
 
 <a href="https://mrnednick.github.io/oxfeeds-landing/"><img src="assets/oxfeeds-landing.webp" alt="OXFeeds" width="100%"></a>
 
 #### [OXFeeds](https://mrnednick.github.io/oxfeeds-landing/)
 
-Landing for a search-traffic monetization service.
+Landing for a search-traffic monetization service — partners, traffic sources and a contact form.
 
-<sub>Vue 3 · [code](https://github.com/MrNedNick/oxfeeds-landing)</sub>
+<sub>Vue 3 · Vite · [code](https://github.com/MrNedNick/oxfeeds-landing)</sub>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 
 <a href="https://mrnednick.github.io/mobilynx-landing/"><img src="assets/mobilynx-landing.webp" alt="Mobilynx" width="100%"></a>
 
 #### [Mobilynx](https://mrnednick.github.io/mobilynx-landing/)
 
-Landing for a mobile performance-traffic network.
+Landing for a mobile performance-traffic network — pricing models, traffic sources and a contact form.
 
-<sub>Vue 3 · [code](https://github.com/MrNedNick/mobilynx-landing)</sub>
-
-</td>
-<td width="33%" valign="top">
-
-<a href="https://mrnednick.github.io/transit-map/"><img src="assets/transit-map.webp" alt="Transit Map" width="100%"></a>
-
-#### [Transit Map](https://mrnednick.github.io/transit-map/)
-
-How far can you get in 20 minutes? Every stop in a city and the area you can reach.
-
-<sub>Svelte 5 · MapLibre · [code](https://github.com/MrNedNick/transit-map)</sub>
+<sub>Vue 3 · Vite · [code](https://github.com/MrNedNick/mobilynx-landing)</sub>
 
 </td>
 <td width="33%" valign="top">
 
-<a href="https://mrnednick.github.io/booking-desk/"><img src="assets/booking-desk.webp" alt="Booking Desk" width="100%"></a>
+<a href="https://mrnednick.github.io/frontend-notes/"><img src="assets/frontend-notes.webp" alt="Frontend Notes" width="100%"></a>
 
-#### [Booking Desk](https://mrnednick.github.io/booking-desk/)
+#### [Frontend Notes](https://mrnednick.github.io/frontend-notes/)
 
-Meeting-room booking with a week grid and conflict checks.
+Notes from real bugs in these projects and a measured comparison of five stacks. Zero JavaScript per page.
 
-<sub>Angular 20 · [code](https://github.com/MrNedNick/booking-desk)</sub>
+<sub>Astro · [code](https://github.com/MrNedNick/frontend-notes)</sub>
 
 </td>
 </tr>
 </table>
 
-Also: **[VibeOS](https://mrnednick.github.io/VibeOS/)** · [code](https://github.com/MrNedNick/VibeOS) — a personal life OS: habits, goals and tasks linked into one system. <sub>Vue 3 · Supabase</sub>
+## More projects
+
+| Project | What it is | Stack |
+|---|---|---|
+| **[Metrics Board](https://mrnednick.github.io/metrics-board/)** · [code](https://github.com/MrNedNick/metrics-board) | Where signups and revenue come from — filters you can share as a link, charts linked to the table | React 19 · TanStack |
+| **[Transit Map](https://mrnednick.github.io/transit-map/)** · [code](https://github.com/MrNedNick/transit-map) | How far can you get in 20 minutes? Every stop in a city and the area you can reach | Svelte 5 · MapLibre |
+| **[Booking Desk](https://mrnednick.github.io/booking-desk/)** · [code](https://github.com/MrNedNick/booking-desk) | Meeting-room booking with a week grid and conflict checks | Angular 20 |
+| **[VibeOS](https://mrnednick.github.io/VibeOS/)** · [code](https://github.com/MrNedNick/VibeOS) | A personal life OS — habits, goals and tasks linked into one system | Vue 3 · Supabase |
 
 ---
 
 ## Toolbox
 
-![Vue](https://img.shields.io/badge/Vue.js-35495e?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
+**Frontend**  
+![Vue.js](https://img.shields.io/badge/Vue.js-35495e?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
+![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxt&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
-![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![WebGL](https://img.shields.io/badge/WebGL2-990000?style=flat-square&logo=webgl&logoColor=white)
-![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Pinia](https://img.shields.io/badge/Pinia-FFD859?style=flat-square&logo=pinia&logoColor=black)
+![TanStack](https://img.shields.io/badge/TanStack-FF4154?style=flat-square&logo=reactquery&logoColor=white)
+
+**Mobile & desktop**  
+![React Native](https://img.shields.io/badge/React_Native-20232a?style=flat-square&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+![Tauri](https://img.shields.io/badge/Tauri-24C8D8?style=flat-square&logo=tauri&logoColor=black)
+![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white)
+
+**Graphics, maps & real-time**  
+![WebGL2](https://img.shields.io/badge/WebGL2-990000?style=flat-square&logo=webgl&logoColor=white)
+![Web Workers](https://img.shields.io/badge/Web_Workers-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![ONNX Runtime](https://img.shields.io/badge/ONNX_Runtime-005CED?style=flat-square&logo=onnx&logoColor=white)
+![MapLibre](https://img.shields.io/badge/MapLibre-396CB2?style=flat-square&logo=maplibre&logoColor=white)
+![Yjs CRDT](https://img.shields.io/badge/Yjs_CRDT-30BCED?style=flat-square)
+
+**Backend & data**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Hono](https://img.shields.io/badge/Hono-E36002?style=flat-square&logo=hono&logoColor=white)
+![Drizzle](https://img.shields.io/badge/Drizzle-C5F74F?style=flat-square&logo=drizzle&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black)
+![IndexedDB](https://img.shields.io/badge/IndexedDB-607D8B?style=flat-square)
+
+**Quality & delivery**  
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square)
+![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Lighthouse](https://img.shields.io/badge/Lighthouse-F44B21?style=flat-square&logo=lighthouse&logoColor=white)
 
 ---
 
 ## Get in touch
 
-Open to frontend roles — Vue, React, TypeScript.
+Open to frontend and product engineering roles.
 
-📫 **mrnednick@gmail.com**
+💼 **[LinkedIn](https://www.linkedin.com/in/mrnednick/)** — the best way to reach me.
