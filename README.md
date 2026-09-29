@@ -90,8 +90,6 @@ Notes from real bugs in these projects and a measured comparison of five stacks.
 
 | Project | What it is | Stack |
 |---|---|---|
-| **[Metrics Board](https://mrnednick.github.io/metrics-board/)** · [code](https://github.com/MrNedNick/metrics-board) | Where signups and revenue come from — filters you can share as a link, charts linked to the table | React 19 · TanStack |
-| **[Transit Map](https://mrnednick.github.io/transit-map/)** · [code](https://github.com/MrNedNick/transit-map) | How far can you get in 20 minutes? Every stop in a city and the area you can reach | Svelte 5 · MapLibre |
 | **[Booking Desk](https://mrnednick.github.io/booking-desk/)** · [code](https://github.com/MrNedNick/booking-desk) | Meeting-room booking with a week grid and conflict checks | Angular 20 |
 | **[VibeOS](https://mrnednick.github.io/VibeOS/)** · [code](https://github.com/MrNedNick/VibeOS) | A personal life OS — habits, goals and tasks linked into one system | Vue 3 · Supabase |
 
