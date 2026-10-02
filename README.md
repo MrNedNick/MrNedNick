@@ -10,18 +10,18 @@ I like products that stay quick and clear as they grow: strict TypeScript, a rea
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-<a href="https://mrnednick.github.io/bmw-atlas/"><img src="assets/bmw-atlas.webp" alt="BMW Atlas" width="100%"></a>
+<a href="https://mrnednick.github.io/cv-studio/"><img src="assets/cv-studio.webp" alt="CV Studio — resume editor with a full-page PDF preview" width="100%"></a>
 
-### [BMW Atlas](https://mrnednick.github.io/bmw-atlas/)
+### [CV Studio](https://mrnednick.github.io/cv-studio/)
 
-An independent BMW encyclopedia: generations, model-year updates, powertrains and production, with a photo for every generation. Source-backed.
+A free resume editor with a live PDF preview, clear templates, clickable links, and editable backups. No account, no download paywall; your resume stays on your device.
 
-<sub>React 19 · TypeScript · Tailwind · [code](https://github.com/MrNedNick/bmw-atlas)</sub>
+<sub>React 19 · TypeScript · PDF · [code](https://github.com/MrNedNick/cv-studio)</sub>
 
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 <a href="https://mrnednick.github.io/photo-lab/"><img src="assets/photo-lab.webp" alt="Photo Lab" width="100%"></a>
 
@@ -32,7 +32,9 @@ A free photo editor in the browser: crop for any feed, straighten, fix colors, r
 <sub>TypeScript · WebGL2 · Web Workers · ONNX · [code](https://github.com/MrNedNick/photo-lab)</sub>
 
 </td>
-<td width="33%" valign="top">
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 <a href="https://mrnednick.github.io/daily-brief/"><img src="assets/daily-brief.webp" alt="Daily Brief" width="100%"></a>
 
@@ -43,6 +45,17 @@ Today's edition of Hacker News: the biggest stories of the last 24 hours and a s
 <sub>Svelte 5 · SvelteKit · [code](https://github.com/MrNedNick/daily-brief)</sub>
 
 </td>
+<td width="50%" valign="top">
+
+<a href="https://mrnednick.github.io/bmw-atlas/"><img src="assets/bmw-atlas.webp" alt="BMW Atlas" width="100%"></a>
+
+### [BMW Atlas](https://mrnednick.github.io/bmw-atlas/)
+
+An independent BMW encyclopedia: generations, model-year updates, powertrains and production, with a photo for every generation. Source-backed.
+
+<sub>React 19 · TypeScript · Tailwind · [code](https://github.com/MrNedNick/bmw-atlas)</sub>
+
+</td>
 </tr>
 </table>
 
@@ -50,7 +63,7 @@ Today's edition of Hacker News: the biggest stories of the last 24 hours and a s
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 <a href="https://mrnednick.github.io/oxfeeds-landing/"><img src="assets/oxfeeds-landing.webp" alt="OXFeeds" width="100%"></a>
 
@@ -61,7 +74,7 @@ Landing for a search-traffic monetization service — partners, traffic sources 
 <sub>Vue 3 · Vite · [code](https://github.com/MrNedNick/oxfeeds-landing)</sub>
 
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 <a href="https://mrnednick.github.io/mobilynx-landing/"><img src="assets/mobilynx-landing.webp" alt="Mobilynx" width="100%"></a>
 
@@ -72,17 +85,6 @@ Landing for a mobile performance-traffic network — pricing models, traffic sou
 <sub>Vue 3 · Vite · [code](https://github.com/MrNedNick/mobilynx-landing)</sub>
 
 </td>
-<td width="33%" valign="top">
-
-<a href="https://mrnednick.github.io/frontend-notes/"><img src="assets/frontend-notes.webp" alt="Frontend Notes" width="100%"></a>
-
-#### [Frontend Notes](https://mrnednick.github.io/frontend-notes/)
-
-Notes from real bugs in these projects and a measured comparison of five stacks. Zero JavaScript per page.
-
-<sub>Astro · [code](https://github.com/MrNedNick/frontend-notes)</sub>
-
-</td>
 </tr>
 </table>
 
@@ -90,6 +92,7 @@ Notes from real bugs in these projects and a measured comparison of five stacks.
 
 | Project | What it is | Stack |
 |---|---|---|
+| **[Frontend Notes](https://mrnednick.github.io/frontend-notes/)** · [code](https://github.com/MrNedNick/frontend-notes) | Notes from real bugs and a measured comparison of five stacks | Astro |
 | **[Booking Desk](https://mrnednick.github.io/booking-desk/)** · [code](https://github.com/MrNedNick/booking-desk) | Meeting-room booking with a week grid and conflict checks | Angular 20 |
 | **[VibeOS](https://mrnednick.github.io/VibeOS/)** · [code](https://github.com/MrNedNick/VibeOS) | A personal life OS — habits, goals and tasks linked into one system | Vue 3 · Supabase |
 
