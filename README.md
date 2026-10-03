@@ -12,9 +12,9 @@ I like products that stay quick and clear as they grow: strict TypeScript, a rea
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://mrnednick.github.io/cv-studio/"><img src="assets/cv-studio.webp" alt="CV Studio — resume editor with a full-page PDF preview" width="100%"></a>
+<a href="https://neatcv.cc/"><img src="assets/neatcv.webp" alt="NeatCV — resume editor with a full-page PDF preview" width="100%"></a>
 
-### [CV Studio](https://mrnednick.github.io/cv-studio/)
+### [NeatCV](https://neatcv.cc/)
 
 A free resume editor with a live PDF preview, clear templates, clickable links, and editable backups. No account, no download paywall; your resume stays on your device.
 
