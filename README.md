@@ -94,6 +94,7 @@ Landing for a mobile performance-traffic network — pricing models, traffic sou
 |---|---|---|
 | **[Frontend Notes](https://mrnednick.github.io/frontend-notes/)** · [code](https://github.com/MrNedNick/frontend-notes) | Notes from real bugs and a measured comparison of five stacks | Astro |
 | **[Booking Desk](https://mrnednick.github.io/booking-desk/)** · [code](https://github.com/MrNedNick/booking-desk) | Meeting-room booking with a week grid and conflict checks | Angular 20 |
+| **[CSV Clinic](https://mrnednick.github.io/csv-clinic/)** · [code](https://github.com/MrNedNick/csv-clinic) | Fix a messy CSV with a recipe and download a clean file — in the browser, nothing uploaded | React · DuckDB-Wasm |
 | **[VibeOS](https://mrnednick.github.io/VibeOS/)** · [code](https://github.com/MrNedNick/VibeOS) | A personal life OS — habits, goals and tasks linked into one system | Vue 3 · Supabase |
 
 ---
