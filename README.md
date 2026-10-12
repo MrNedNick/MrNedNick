@@ -59,6 +59,25 @@ An independent BMW encyclopedia: generations, model-year updates, powertrains an
 </tr>
 </table>
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://mrnednick.github.io/arcade/"><img src="assets/arcade.webp" alt="Arcade — game lobby with Snake, Tetris and Minesweeper previews" width="100%"></a>
+
+</td>
+<td width="50%" valign="top">
+
+### [Arcade](https://mrnednick.github.io/arcade/)
+
+Five free browser games: Snake, Tetris, Minesweeper, Sudoku and Memory. Daily puzzles, saved progress and local high scores. No ads, no sign-up; works offline.
+
+<sub>Vue 3 · TypeScript · Canvas · PWA · [code](https://github.com/MrNedNick/arcade)</sub>
+
+</td>
+</tr>
+</table>
+
 ## Live sites
 
 <table>
